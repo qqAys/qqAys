@@ -1,3 +1,8 @@
+
+> [!IMPORTANT]
+> How do you pronounce "qqays"?
+> Answer: `/kwaɪ.eɪs/`, sounds like `Quace`.
+
 ![](./github-header-image.png)
 ---
 
