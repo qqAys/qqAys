@@ -4,7 +4,7 @@
 > 
 > Answer: `/kweɪs/`, sounds like `Quace`.
 
-![](./github-header-image.png)
+<!-- ![](./github-header-image.png) -->
 ---
 
 ![Jinx's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqays&show_icons=true&theme=jolly)
